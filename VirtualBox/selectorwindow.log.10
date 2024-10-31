@@ -1,0 +1,21 @@
+00:00:00.330218 VirtualBox GUI VM Selector Window 7.1.4 r165100 linux.amd64 (Oct 15 2024 16:00:51) release log
+00:00:00.330220 Log opened 2024-10-23T12:10:50.981623000Z
+00:00:00.330220 Build Type: release
+00:00:00.330222 OS Product: Linux
+00:00:00.330224 OS Release: 6.11.4-zen2-1-zen
+00:00:00.330225 OS Version: #1 ZEN SMP PREEMPT_DYNAMIC Sun, 20 Oct 2024 18:20:07 +0000
+00:00:00.330244 DMI Product Name: 20L7CTO1WW
+00:00:00.330252 DMI Product Version: ThinkPad T480s
+00:00:00.330256 Firmware type: UEFI
+00:00:00.330863 Secure Boot: Disabled
+00:00:00.330903 Host RAM: 15750MB (15.3GB) total, 13942MB (13.6GB) available
+00:00:00.330906 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.330907 Process ID: 2354
+00:00:00.330908 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.330938 Qt version: 6.8.0
+00:00:00.331639 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.333333 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.333356 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.015228 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 560x140 x 800x800
+00:03:48.832750 GUI: UICommon: Handling aboutToQuit request..
+00:03:49.455570 GUI: UICommon: aboutToQuit request handled!

@@ -1,0 +1,19 @@
+font='Monofur Nerd Font'
+
+clock
+timestr=%R
+datestr=%a, %e of %B
+
+ignore-empty-password
+
+indicator-thickness=15
+
+idicator-radius=150
+
+#screenshots
+
+image = /hombe/nano/Pictures/Wallpapers/windranger.jpg
+
+grace=2
+
+fade-in=0.5

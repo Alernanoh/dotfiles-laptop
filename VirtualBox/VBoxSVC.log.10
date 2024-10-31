@@ -1,0 +1,121 @@
+00:00:00.000155 main     VirtualBox XPCOM Server 7.1.4 r165100 linux.amd64 (Oct 15 2024 16:00:51) release log
+00:00:00.000157 main     Log opened 2024-10-22T12:29:11.360622000Z
+00:00:00.000158 main     Build Type: release
+00:00:00.000159 main     OS Product: Linux
+00:00:00.000160 main     OS Release: 6.11.4-zen2-1-zen
+00:00:00.000161 main     OS Version: #1 ZEN SMP PREEMPT_DYNAMIC Sun, 20 Oct 2024 18:20:07 +0000
+00:00:00.000179 main     DMI Product Name: 20L7CTO1WW
+00:00:00.000187 main     DMI Product Version: ThinkPad T480s
+00:00:00.000191 main     Firmware type: UEFI
+00:00:00.000839 main     Secure Boot: Disabled
+00:00:00.000872 main     Host RAM: 15750MB (15.3GB) total, 12198MB (11.9GB) available
+00:00:00.000874 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000875 main     Process ID: 29515
+00:00:00.000875 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.002126 main     IPC socket path: /tmp/.vbox-nano-ipc/ipcd
+00:00:00.009724 DCon01   VirtualBox: object creation starts
+00:00:00.009790 DCon01   Home directory: '/home/nano/.config/VirtualBox'
+00:00:00.017878 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp61s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.018680 DCon01   HostDnsMonitor: initializing
+00:00:00.018945 DCon01   NAT: resolv.conf: nameserver 192.168.108.1
+00:00:00.018955 DCon01   HostDnsMonitor: updating information
+00:00:00.018961 DCon01   HostDnsMonitor: old information
+00:00:00.018963 DCon01     no server entries
+00:00:00.018965 DCon01     no domain set
+00:00:00.018966 DCon01     no search string entries
+00:00:00.018968 DCon01   HostDnsMonitor: new information
+00:00:00.018969 DCon01     server 1: 192.168.108.1
+00:00:00.018971 DCon01     domain: itsqmet.edu.ec
+00:00:00.018973 DCon01     search string 1: itsqmet.edu.ec
+00:00:00.021336 DCon01   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.021480 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.021573 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.022343 DCon01   VirtualBox: object created
+00:00:00.610943 DCon04   Saving settings file "/home/nano/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.614522 DCon04   Finished saving settings file "/home/nano/.config/VirtualBox/VirtualBox.xml"
+00:00:00.651964 DCon01   Saving settings file "/home/nano/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.654803 DCon01   Finished saving settings file "/home/nano/.config/VirtualBox/VirtualBox.xml"
+00:00:00.682670 DCon01   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:00:01.032486 DCon01   Saving settings file "/home/nano/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.036249 DCon01   Finished saving settings file "/home/nano/.config/VirtualBox/VirtualBox.xml"
+00:14:04.831610 dns-monitor HostDnsMonitor: updating information
+00:14:04.831694 dns-monitor HostDnsMonitor: old information
+00:14:04.831713 dns-monitor   server 1: 192.168.108.1
+00:14:04.831728 dns-monitor   domain: itsqmet.edu.ec
+00:14:04.831740 dns-monitor   search string 1: itsqmet.edu.ec
+00:14:04.831754 dns-monitor HostDnsMonitor: new information
+00:14:04.831768 dns-monitor   no server entries
+00:14:04.831776 dns-monitor   no domain set
+00:14:04.831784 dns-monitor   no search string entries
+00:14:05.277660 dns-monitor NAT: resolv.conf: nameserver 192.168.73.207
+00:14:05.277736 dns-monitor HostDnsMonitor: updating information
+00:14:05.277748 dns-monitor HostDnsMonitor: old information
+00:14:05.277757 dns-monitor   no server entries
+00:14:05.277766 dns-monitor   no domain set
+00:14:05.277774 dns-monitor   no search string entries
+00:14:05.277783 dns-monitor HostDnsMonitor: new information
+00:14:05.277819 dns-monitor   server 1: 192.168.73.207
+00:14:05.277828 dns-monitor   no domain set
+00:14:05.277833 dns-monitor   no search string entries
+00:22:07.410216 dns-monitor HostDnsMonitor: updating information
+00:22:07.410342 dns-monitor HostDnsMonitor: old information
+00:22:07.410354 dns-monitor   server 1: 192.168.73.207
+00:22:07.410365 dns-monitor   no domain set
+00:22:07.410373 dns-monitor   no search string entries
+00:22:07.410381 dns-monitor HostDnsMonitor: new information
+00:22:07.410388 dns-monitor   no server entries
+00:22:07.410395 dns-monitor   no domain set
+00:22:07.410402 dns-monitor   no search string entries
+00:22:25.871873 dns-monitor NAT: resolv.conf: nameserver 192.168.108.1
+00:22:25.871955 dns-monitor HostDnsMonitor: updating information
+00:22:25.871966 dns-monitor HostDnsMonitor: old information
+00:22:25.871976 dns-monitor   no server entries
+00:22:25.871985 dns-monitor   no domain set
+00:22:25.871993 dns-monitor   no search string entries
+00:22:25.872002 dns-monitor HostDnsMonitor: new information
+00:22:25.872010 dns-monitor   server 1: 192.168.108.1
+00:22:25.872020 dns-monitor   domain: itsqmet.edu.ec
+00:22:25.872028 dns-monitor   search string 1: itsqmet.edu.ec
+00:22:57.147553 dns-monitor HostDnsMonitor: updating information
+00:22:57.147633 dns-monitor HostDnsMonitor: old information
+00:22:57.147643 dns-monitor   server 1: 192.168.108.1
+00:22:57.147654 dns-monitor   domain: itsqmet.edu.ec
+00:22:57.147661 dns-monitor   search string 1: itsqmet.edu.ec
+00:22:57.147669 dns-monitor HostDnsMonitor: new information
+00:22:57.147677 dns-monitor   no server entries
+00:22:57.147684 dns-monitor   no domain set
+00:22:57.147691 dns-monitor   no search string entries
+00:22:57.539521 dns-monitor NAT: resolv.conf: nameserver 192.168.73.207
+00:22:57.539602 dns-monitor HostDnsMonitor: updating information
+00:22:57.539618 dns-monitor HostDnsMonitor: old information
+00:22:57.539630 dns-monitor   no server entries
+00:22:57.539640 dns-monitor   no domain set
+00:22:57.539648 dns-monitor   no search string entries
+00:22:57.539658 dns-monitor HostDnsMonitor: new information
+00:22:57.539669 dns-monitor   server 1: 192.168.73.207
+00:22:57.539684 dns-monitor   no domain set
+00:22:57.539710 dns-monitor   no search string entries
+00:34:07.349615 dns-monitor HostDnsMonitor: updating information
+00:34:07.349697 dns-monitor HostDnsMonitor: old information
+00:34:07.349707 dns-monitor   server 1: 192.168.73.207
+00:34:07.349718 dns-monitor   no domain set
+00:34:07.349726 dns-monitor   no search string entries
+00:34:07.349733 dns-monitor HostDnsMonitor: new information
+00:34:07.349740 dns-monitor   no server entries
+00:34:07.349748 dns-monitor   no domain set
+00:34:07.349755 dns-monitor   no search string entries
+00:34:12.727920 dns-monitor NAT: resolv.conf: nameserver 192.168.104.1
+00:34:12.728015 dns-monitor HostDnsMonitor: updating information
+00:34:12.728032 dns-monitor HostDnsMonitor: old information
+00:34:12.728046 dns-monitor   no server entries
+00:34:12.728061 dns-monitor   no domain set
+00:34:12.728074 dns-monitor   no search string entries
+00:34:12.728088 dns-monitor HostDnsMonitor: new information
+00:34:12.728101 dns-monitor   server 1: 192.168.104.1
+00:34:12.728117 dns-monitor   domain: itsqmet.edu.ec
+00:34:12.728130 dns-monitor   search string 1: itsqmet.edu.ec
+00:48:34.427329 main     VirtualBox: object deletion starts
+00:48:34.427697 main     HostDnsMonitor: shutting down ...
+00:48:34.427848 main     HostDnsMonitor: shut down
+00:48:34.438399 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:48:34.438515 main     VirtualBox: object deleted

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="dark-mode" type="bool" value="true"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=6;x=0;y=0"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="icon-size" type="uint" value="16"/>
+      <property name="size" type="uint" value="26"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="15"/>
+        <value type="int" value="2"/>
+        <value type="int" value="3"/>
+        <value type="int" value="4"/>
+        <value type="int" value="5"/>
+        <value type="int" value="6"/>
+        <value type="int" value="8"/>
+        <value type="int" value="9"/>
+        <value type="int" value="10"/>
+        <value type="int" value="11"/>
+        <value type="int" value="12"/>
+        <value type="int" value="13"/>
+        <value type="int" value="14"/>
+      </property>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-2" type="string" value="tasklist">
+      <property name="grouping" type="uint" value="1"/>
+      <property name="sort-order" type="uint" value="4"/>
+      <property name="show-labels" type="bool" value="false"/>
+    </property>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-4" type="string" value="pager"/>
+    <property name="plugin-5" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “wifi-estudiantes” active: wifi-estudiantes (62%)"/>
+        <value type="string" value="wi-fi network connection “nano” active: nano (91%)"/>
+        <value type="string" value="wi-fi network connection “patyduext2 1” active: patyduext2 (60%)"/>
+        <value type="string" value="wi-fi network connection “wifi_itsqmet” active: wifi_itsqmet (70%)"/>
+        <value type="string" value="wi-fi network connection “patyduext2” active: patyduext2 (61%)"/>
+        <value type="string" value="wi-fi network connection “patydu_ext” active: patydu_ext (71%)"/>
+        <value type="string" value="wi-fi network connection “patydu_ext” active: patydu_ext (66%)"/>
+        <value type="string" value="wi-fi network connection “patydu_ext” active: patydu_ext (72%)"/>
+        <value type="string" value="wi-fi network connection “patydu_5ghz_ext” active: patydu_5ghz_ext (51%)"/>
+        <value type="string" value="wi-fi network connection “andres” active: andres (58%)"/>
+        <value type="string" value="requesting a wi-fi network address for “patyduext2”…"/>
+        <value type="string" value="networkmanager applet"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="Fcitx"/>
+        <value type="string" value="chrome_status_icon_1"/>
+        <value type="string" value="zoom"/>
+        <value type="string" value="steam"/>
+      </property>
+    </property>
+    <property name="plugin-8" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="show-notifications" type="bool" value="true"/>
+      <property name="known-players" type="string" value="firefox;Firefox Web Browser"/>
+    </property>
+    <property name="plugin-9" type="string" value="power-manager-plugin"/>
+    <property name="plugin-10" type="string" value="notification-plugin"/>
+    <property name="plugin-11" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-12" type="string" value="clock">
+      <property name="timezone" type="string" value="America/Guayaquil"/>
+    </property>
+    <property name="plugin-13" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-14" type="string" value="actions"/>
+    <property name="plugin-15" type="string" value="whiskermenu">
+      <property name="recent" type="array">
+        <value type="string" value="thunar.desktop"/>
+        <value type="string" value="xfce-mouse-settings.desktop"/>
+        <value type="string" value="discord.desktop"/>
+        <value type="string" value="firefox.desktop"/>
+        <value type="string" value="Zoom.desktop"/>
+        <value type="string" value="kitty.desktop"/>
+        <value type="string" value="ventoy.desktop"/>
+        <value type="string" value="emacsclient.desktop"/>
+        <value type="string" value="xfce4-terminal-settings.desktop"/>
+        <value type="string" value="Alacritty.desktop"/>
+      </property>
+    </property>
+  </property>
+</channel>

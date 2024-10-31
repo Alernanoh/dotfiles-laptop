@@ -1,0 +1,26 @@
+#Window
+[window]
+opacity = 0.9
+
+
+#Font
+[font]
+size = 10.0
+
+[font.bold]
+family = "Monofur Nerd  Font"
+style = "Bold"
+
+[font.bold_italic]
+family= "Monofur Nerd Font"
+style = "Bold Italic"
+
+
+[font.italic]
+family= "Monofur Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "Monofur Nerd Font"
+style = "Regular"
+
